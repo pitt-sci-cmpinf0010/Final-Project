@@ -2,4 +2,8 @@
 Dataset on Income by Neighborhood
 https://data.wprdc.org/dataset/c6265ffb-c86e-4a2c-870b-1aaa0772c449/resource/14abb000-d066-4728-8ffa-227883d6c331/download/wage-or-salary-income-in-the-past-12-months-for-households.csv
 
-Dataset on 
+Dataset on Educational Attainment
+https://data.wprdc.org/dataset/c6265ffb-c86e-4a2c-870b-1aaa0772c449/resource/755c09dc-be92-4787-84a6-080d84345979/download/educational-attainment-for-the-population-25-years-and-over.csv
+
+Dataset on Race
+https://data.wprdc.org/dataset/c6265ffb-c86e-4a2c-870b-1aaa0772c449/resource/466201c5-e8c4-4f1b-bdb0-66fe7ea651dd/download/race.csv
