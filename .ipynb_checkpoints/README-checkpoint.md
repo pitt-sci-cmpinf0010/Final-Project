@@ -6,7 +6,7 @@
   * An Abstract
 
 # Team Name:
-'to be determined'
+Optimal Anthill
 
 # Team Members:
 
