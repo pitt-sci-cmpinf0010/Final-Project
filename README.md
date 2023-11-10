@@ -17,7 +17,7 @@ For the next few weeks, we will be working on the final project! This week, I wi
 6. JupyterHub should open up to this week's materials!
 
 
-## If Pulse Secure doesn't work for you
+## If JupyterLab doesn't work for you
 
 Use Pitt IT's [Virtual Lab](https://www.technology.pitt.edu/services/virtual-lab). I recommend using the Web Client as listed on that website. You can download and submit files to Canvas directly from the virtual lab instance. However, if you need to get files to your local machine, you should use **OneDrive**, since it it already set up on the machine. You can then download your files to your local machine from [OneDrive](https://onedrive.live.com/about/en-us/signin/).
 
